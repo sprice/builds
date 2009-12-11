@@ -1,5 +1,5 @@
 core = 6.x
 projects[] =  drupal
-projects[profile_dev][type] = "profile"
-projects[profile_dev][download][type] = "git"
-projects[profile_dev][download][url] = "git://github.com/sprice/dev_profile.git"
+projects[dev_profile][type] = "profile"
+projects[dev_profile][download][type] = "git"
+projects[dev_profile][download][url] = "git://github.com/sprice/dev_profile.git"
