@@ -1,1 +1,3 @@
-Build files used with drush make and Drupal
+Build files utilized by drush make [1] to install Drupal distributions.
+
+[1] http://drupal.org/project/drush_make

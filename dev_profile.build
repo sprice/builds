@@ -1,5 +1,0 @@
-core = 6.x
-projects[drupal][version] = 6.14 
-projects[dev_profile][type] = "profile"
-projects[dev_profile][download][type] = "git"
-projects[dev_profile][download][url] = "git://github.com/sprice/dev_profile.git"
