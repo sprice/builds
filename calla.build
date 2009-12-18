@@ -1,5 +1,5 @@
 core = 6.x
 projects[drupal][version] = 6.15
-projects[dev_profile][type] = "profile"
-projects[dev_profile][download][type] = "git"
-projects[dev_profile][download][url] = "git://github.com/sprice/calla.git"
+projects[calla][type] = "profile"
+projects[calla][download][type] = "git"
+projects[calla][download][url] = "git://github.com/sprice/calla.git"
