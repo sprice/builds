@@ -1,3 +1,12 @@
 Build files utilized by drush make [1] to install Drupal distributions.
 
+Usage:
+
+1. git clone git@github.com:sprice/builds.git
+2. cd builds
+3. drush make build_file.build
+
+Notes:
+- Please report/find any issues to http://github.com/sprice/builds/issues or specific build issue queue on github.
+
 [1] http://drupal.org/project/drush_make
