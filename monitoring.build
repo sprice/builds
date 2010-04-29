@@ -1,5 +1,9 @@
-core = 6.x
-projects[drupal][version] = 6.16
+core = "6.x"
+
+projects[pressflow][type] = "core"
+projects[pressflow][download][type] = "get"
+projects[pressflow][download][url] = "http://launchpad.net/pressflow/6.x/6.16.77/+download/pressflow-6.16.77.tar.gz" 
+
 projects[monitoring][type] = "profile"
 projects[monitoring][download][type] = "git"
 projects[monitoring][download][url] = "git@affinitybridge.unfuddle.com:affinitybridge/monitoringmonitoring.git"
